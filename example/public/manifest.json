@@ -1,6 +1,6 @@
 {
-  "short_name": "react-flip-component",
-  "name": "react-flip-component",
+  "short_name": "react-flip-list",
+  "name": "react-flip-list",
   "start_url": "./index.html",
   "display": "standalone",
   "theme_color": "#000000",

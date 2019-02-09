@@ -1,10 +1,10 @@
 {
-  "name": "react-flip-component",
+  "name": "react-flip-list",
   "version": "0.1.0",
   "description": "",
   "author": "hanford",
   "license": "MIT",
-  "repository": "hanford/react-flip-component",
+  "repository": "hanford/react-flip-list",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",

@@ -1,17 +1,17 @@
-# react-flip-component
+# react-flip-list
 
 > Simple <List /> component that implements FLIP
 
-[![NPM](https://img.shields.io/npm/v/react-flip-component.svg)](https://www.npmjs.com/package/react-flip-component) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/react-flip-list.svg)](https://www.npmjs.com/package/react-flip-list) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
 ```bash
-npm install --save react-flip-component
+npm install --save react-flip-list
 ```
 
 ```bash
-yarn add react-flip-component
+yarn add react-flip-list
 ```
 
 ## Usage
@@ -19,7 +19,7 @@ yarn add react-flip-component
 ```tsx
 import * as React from 'react'
 
-import List from 'react-flip-component'
+import List from 'react-flip-list'
 
 class Example extends React.Component {
   render () {

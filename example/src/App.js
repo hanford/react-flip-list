@@ -2,7 +2,7 @@ import ReactDOM from "react-dom";
 import React, { useLayoutEffect, useEffect, useState } from "react";
 import { css } from 'emotion'
 import { shuffle } from 'lodash'
-import List from 'react-flip-component'
+import List from 'react-flip-list'
 
 import Item from './Item'
 

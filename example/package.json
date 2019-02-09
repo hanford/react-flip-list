@@ -1,6 +1,6 @@
 {
-  "name": "react-flip-component-example",
-  "homepage": "https://hanford.github.io/react-flip-component",
+  "name": "react-flip-list-example",
+  "homepage": "https://hanford.github.io/react-flip-list",
   "version": "0.0.0",
   "license": "MIT",
   "private": true,
@@ -10,7 +10,7 @@
     "prop-types": "^15.6.2",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
-    "react-flip-component": "link:..",
+    "react-flip-list": "link:..",
     "react-scripts": "^1.1.4"
   },
   "scripts": {
